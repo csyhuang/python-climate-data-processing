@@ -12,7 +12,7 @@ In the future, to get an updated version of the repository:
 git pull
 ```
 
-# List of tutorials (tutorial/)
+# List of tutorials (tutorials/)
 - tutorial-Feb1-setup.ipynb: load netCDF datasets and visualize them with matplotlib.  
 - Cartopy_tutorial.ipynb: use the cartopy plotting library to visualize geopotential 
 height at 300hPa on the globe.
