@@ -22,6 +22,6 @@ This folder contains submitted work from Claire. To submit the files you want to
 add the files you have changed using
 ```
 git add file_you_have_changed.ipynb
-git commit -m 'a message telling what the file is about'
+git commit -m 'A message telling what the file is about'
 git push
 ```
