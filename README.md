@@ -16,6 +16,8 @@ git pull
 - tutorial-Feb1-setup.ipynb: load netCDF datasets and visualize them with matplotlib.  
 - Cartopy_tutorial.ipynb: use the cartopy plotting library to visualize geopotential 
 height at 300hPa on the globe.
+- find-fourier-coefficients-using-fft.ipynb: compute fourier coefficients using ```scipy.fftpack```.
+
 
 # Submission from Claire (submission_from_claire/)
 This folder contains submitted work from Claire. To submit the files you want to show, 
